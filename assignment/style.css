@@ -8,4 +8,36 @@
 
 /* Put a border around your image */
 
-/* Change the font-family of your list */
+/* Change the font-family of your list*/
+
+body {
+background-color: #9BA17B;
+  color: white;
+  text-align: center;
+}
+
+header {
+background-color: #6D5F35;
+  color: #9BA17B;
+}
+
+footer {
+background-color: #6D5F35;
+  text-align: center;
+  color: #9BA17B;
+  }
+
+h1 {
+text-align: center
+}
+
+p {
+color: #9BA17B;
+font-style: italic;
+}
+
+img {
+border: 15px solid white;
+  border-radius: 5px;
+  text-align: center;
+}
